@@ -1,0 +1,4 @@
+module Channels {
+header "Channels-Swift.h"
+export *
+}

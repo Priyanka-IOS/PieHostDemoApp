@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels-master.dia",
+    "emit-module-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels-master.swiftdeps"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/Channel.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channel~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/Channels/Channels.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Channels~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/Channels/Test.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Test~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/PieSocket.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocket~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/misc/Logger.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/Logger~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/misc/PieSocketEvent.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketEvent~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/misc/PieSocketException.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketException~partial.swiftmodule"
+  },
+  "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/Sources/misc/PieSocketOptions.swift" : {
+    "const-values" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.swiftconstvalues",
+    "dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.d",
+    "diagnostics" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.dia",
+    "index-unit-output-path" : "/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.o",
+    "llvm-bc" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.bc",
+    "object" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.o",
+    "swift-dependencies" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions.swiftdeps",
+    "swiftmodule" : "/Users/sudip.kundu/Desktop/PieHostDemoApp/swift-websocket-client-main/build/Channels.build/Debug-iphoneos/Channels.build/Objects-normal/arm64/PieSocketOptions~partial.swiftmodule"
+  }
+}
